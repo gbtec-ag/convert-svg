@@ -1,5 +1,5 @@
 {
-  "name": "convert-svg",
+  "name": "@gbtec/convert-svg",
   "license": "MIT",
   "version": "0.4.0",
   "dependencies": {
