@@ -2,11 +2,17 @@
   "name": "convert-svg",
   "license": "MIT",
   "version": "0.4.0",
-  "devDependencies": {
-    "eslint": "^4.17.0",
-    "eslint-config-notninja": "^0.2.3",
-    "lerna": "^2.8.0",
-    "mocha": "^5.0.0"
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "file-url": "^2.0.2",
+    "get-stdin": "^5.0.1",
+    "glob": "^7.1.2",
+    "lodash.omit": "^4.5.0",
+    "lodash.pick": "^4.4.0",
+    "pollock": "^0.1.0",
+    "puppeteer": "^1.0.0",
+    "tmp": "0.0.33"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
